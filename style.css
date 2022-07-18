@@ -1,0 +1,349 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.opop {
+    display: inline;
+    position: relative;
+}
+
+.aa {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    float: right;
+    margin-top: 10px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-family: sans-serif;
+    border-bottom: #ffffff solid 3px;
+}
+
+.aa:hover {
+    border-bottom: 3px solid #ffffff;
+    border-radius: 30%;
+    transition: 0.5s;
+
+}
+
+header .aha h1 {
+    -webkit-text-stroke: 2px white;
+    color: transparent;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    align-items: center;
+    text-align: center;
+}
+
+header .aha h1:hover {
+    color: white;
+    transition: 0.3s;
+}
+
+header .aha p {
+    font-family: sans-serif;
+    font-size: small;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+
+
+.video {
+    top: 0;
+    right: 0;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+header .navo pre {
+    color: white;
+    font-family: sans-serif;
+
+}
+
+#pyramids {
+    display: inline-block;
+    background-color: rgb(92, 91, 91);
+    display: flex;
+    margin-top: 10px;
+}
+
+#pyramids h1 {
+    color: white;
+}
+
+.ad {
+    width: 500px;
+    height: 300px;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    display: flex;
+
+
+}
+
+.ad:hover {
+    box-shadow: 7px 7px 20px rgb(253, 253, 253);
+    transition: 0.5s;
+}
+
+.des {
+    font-family: sans-serif;
+    display: inline-block;
+    color: rgb(248, 248, 248);
+    margin-left: 20px;
+    margin-top: 25px;
+    padding: 10px;
+
+}
+
+#sphinx {
+    margin-top: 20px;
+    display: inline-block;
+    background-color: rgb(92, 91, 91);
+    display: flex;
+}
+
+#sphinx h1 {
+    color: white;
+}
+
+.add {
+    width: 500px;
+    height: 300px;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    display: flex;
+
+
+}
+
+.add:hover {
+    box-shadow: 7px 7px 20px rgb(253, 253, 253);
+    transition: 0.5s;
+}
+
+.desc {
+    font-family: sans-serif;
+    display: inline-block;
+    color: rgb(248, 248, 248);
+    margin-left: 20px;
+    margin-top: 25px;
+    padding: 10px;
+
+}
+
+#simbel {
+    margin-top: 20px;
+    display: inline-block;
+    background-color: rgb(92, 91, 91);
+    display: flex;
+}
+
+#simbel h1 {
+    color: white;
+}
+
+.addd {
+    width: 500px;
+    height: 300px;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    display: flex;
+
+
+}
+
+.addd:hover {
+    box-shadow: 7px 7px 20px rgb(253, 253, 253);
+    transition: 0.5s;
+}
+
+.desco {
+    font-family: sans-serif;
+    display: inline-block;
+    color: rgb(248, 248, 248);
+    margin-left: 20px;
+    margin-top: 25px;
+    padding: 10px;
+
+}
+
+#queen {
+    margin-top: 20px;
+    display: inline-block;
+    background-color: rgb(92, 91, 91);
+    display: flex;
+}
+
+#queen h1 {
+    color: white;
+}
+
+.adddd {
+    width: 500px;
+    height: 300px;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    display: flex;
+
+}
+
+.adddd:hover {
+    box-shadow: 7px 7px 20px rgb(253, 253, 253);
+    transition: 0.5s;
+}
+
+.descoo {
+    font-family: sans-serif;
+    display: inline-block;
+    color: rgb(248, 248, 248);
+    margin-left: 20px;
+    margin-top: 25px;
+    padding: 10px;
+
+}
+
+
+
+.icon {
+    display: flex;
+    justify-content: center;
+}
+
+.icon div {
+    background-color: #ffb005;
+    color: white;
+    padding: 8px 16px;
+    margin-left: 5px;
+}
+
+.icon div:hover {
+    background-color: rgb(224, 224, 224);
+}
+
+footer p {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+}
+
+footer {
+    background-color: black;
+    padding: 70px 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.lll {
+    display: flex;
+}
+
+.loho {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.shiko {
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin-left: 80px;
+    margin-top: 30px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(IMG_E6352.JPG);
+    box-shadow: 5px 5px 15px black;
+}
+
+.shiko:hover {
+    box-shadow: rgb(255, 255, 255) 5px 5px 15px;
+    transition: 0.3s;
+}
+
+.shiko1 {
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin-left: 80px;
+    margin-top: 30px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(IMG_E6354.JPG);
+    box-shadow: 5px 5px 15px black;
+}
+
+.shiko1:hover {
+    box-shadow: rgb(255, 255, 255) 5px 5px 15px;
+    transition: 0.3s;
+}
+
+
+.shiko2 {
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin-left: 80px;
+    margin-top: 30px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(IMG_E6356.JPG);
+    box-shadow: 5px 5px 15px black;
+}
+
+.shiko2:hover {
+    box-shadow: rgb(255, 255, 255) 5px 5px 15px;
+    transition: 0.3s;
+}
+
+
+.shiko3 {
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(IMG_E6355.JPG);
+    box-shadow: 5px 5px 15px black;
+}
+
+.shiko3:hover {
+    box-shadow: rgb(255, 255, 255) 5px 5px 15px;
+    transition: 0.3s;
+}
+
+.aha2 {
+    text-align: center;
+}

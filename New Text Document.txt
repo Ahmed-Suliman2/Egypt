@@ -1,0 +1,114 @@
+            <div class="shiko">
+                <h5 class="op">Pyramids</h5>
+            </div>
+            <div class="shiko1">
+                <h5 class="opp">Sphinx</h5>
+            </div>
+            <div class="shiko2">
+                <h5 class="oppp">Abu Simbel</h5>
+            </div>
+            <div class="shiko3">
+                <h5 class="opppp">Hatshepsut</h5>
+            </div>
+
+
+
+
+
+
+
+.shiko {
+    width: 200px;
+    height: 210px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin-left: 780px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(IMG_E6352.JPG);
+}
+
+.shiko:hover {
+    box-shadow: rgb(0, 0, 0) 5px 5px 15px;
+    transition: 0.3s;
+}
+
+.shiko1 {
+    width: 200px;
+    height: 210px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(IMG_E6354.JPG);
+}
+
+.shiko1:hover {
+    box-shadow: rgb(0, 0, 0) 5px 5px 15px;
+    transition: 0.3s;
+}
+
+.shiko2 {
+    width: 200px;
+    height: 210px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin-left: 780px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(IMG_E6356.JPG);
+}
+
+.shiko2:hover {
+    box-shadow: rgb(0, 0, 0) 5px 5px 15px;
+    transition: 0.3s;
+}
+
+.shiko3 {
+    width: 200px;
+    height: 210px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(IMG_E6355.JPG);
+}
+
+.shiko3:hover {
+    box-shadow: rgb(0, 0, 0) 5px 5px 15px;
+    transition: 0.3s;
+}
+
+.shiko .op {
+    color: white;
+    font-family: sans-serif;
+}
+
+.shiko1 .opp {
+    color: white;
+    font-family: sans-serif;
+}
+
+.shiko2 .oppp {
+    color: white;
+    font-family: sans-serif;
+}
+
+.shiko3 .opppp {
+    color: white;
+    font-family: sans-serif;
+}
